@@ -1,6 +1,6 @@
 title: Luong Thien Chuong
 description: My personal blog.
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-leap-day
 github:
