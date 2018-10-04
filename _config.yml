@@ -3,3 +3,7 @@ description: My personal blog.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
+  owner_name: Luong Thien Chuong
